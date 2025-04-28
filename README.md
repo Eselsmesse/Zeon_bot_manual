@@ -2,7 +2,7 @@
 
 1. Для парсинга instruction.md использовалась утилита Pandoc (необходима установка)
 
-Команда для конвертации MD в PDF 
+Команда для конвертации MD в PDF (из папки где устанволен pandoc)
 
 pandoc instruction.md -o instruction.pdf --pdf-engine=xelatex
 
